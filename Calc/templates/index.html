@@ -7,6 +7,19 @@
     <title>App</title>
 </head>
 <body>
+    <div class="conteiner">
     <h1>hello world!</h1>
+
+    <ul>
+        <li>Média dos alugueis: {{ "{:.2f}".format(preco_medio) }} </li>
+        <li>Quantidade de imóveis: {{ num_entradas }} </li>
+    </ul>
+
+    <ul>
+        {% for bairro in lista_bairros %}
+        <li>{{ bairro }}</li>
+        {% endfor %}
+    </ul>
+    </div>
 </body>
 </html>
