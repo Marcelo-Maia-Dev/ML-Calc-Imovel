@@ -12,7 +12,7 @@ Para utilizar a aplicação, basta acessar a [URL]("#") onde a aplicação está
 
 ### Como foi construído
 <br>
-O modelo de aprendizado de máquina foi construído utilizando a biblioteca scikit-learn, que oferece diversos algoritmos de aprendizado de máquina pré-implementados em Python. Para treinar o modelo, foram utilizados dados históricos de vendas de imóveis em São Paulo obtidos no [Kaggle](https://www.kaggle.com/datasets/argonalyst/sao-paulo-real-estate-sale-rent-april-2019) , que foram disponibilizados publicamente pela startup [OpenImob](https://openimob.com/), e foram pré-processados e tratados antes de serem utilizados para treinamento.
+O modelo de aprendizado de máquina foi construído utilizando a biblioteca scikit-learn, que oferece diversos algoritmos de aprendizado de máquina pré-implementados em Python. Para treinar o modelo, foram utilizados dados históricos de vendas de imóveis em São Paulo obtidos no [Kaggle](https://www.kaggle.com/datasets/argonalyst/sao-paulo-real-estate-sale-rent-april-2019), que foram disponibilizados publicamente pela startup [OpenImob](https://openimob.com/), e foram pré-processados e tratados antes de serem utilizados para treinamento.
 
 A aplicação web foi construída utilizando a biblioteca `Flask`, que é um framework web leve e flexível em Python. O frontend da aplicação foi construído utilizando `HTML` e `CSS`, com o objetivo de criar uma interface simples e fácil de usar para o usuário.
 <br>
