@@ -7,7 +7,7 @@ A aplicação web é implementada em `Python`, com a biblioteca `Flask` sendo us
 
 ### Como utilizar
 <br>
-Para utilizar a aplicação, basta acessar a [URL]("#") onde a aplicação está hospedada. Na página inicial, é possível inserir informações sobre o imóvel que se deseja prever o preço, como número de quartos, número de banheiros, tamanho do terreno, entre outros. Após preencher essas informações, o usuário pode clicar no botão de "prever preço" para ver uma estimativa do preço do imóvel.
+Para utilizar a aplicação, basta acessar a [URL](#) onde a aplicação está hospedada. Na página inicial, é possível inserir informações sobre o imóvel que se deseja prever o preço, como número de quartos, número de banheiros, tamanho do terreno, entre outros. Após preencher essas informações, o usuário pode clicar no botão de "prever preço" para ver uma estimativa do preço do imóvel.
 <br>
 
 ### Como foi construído
@@ -22,4 +22,4 @@ A aplicação web foi construída utilizando a biblioteca `Flask`, que é um fra
 Este projeto é de código aberto e contribuições são bem-vindas! Caso queira contribuir, você pode fazer um fork deste repositório, criar uma nova branch com suas mudanças e fazer um pull request para que as suas alterações sejam incorporadas ao projeto.
 
 
- usados aqui foram obtidos no Kaggle, e foram disponibilizados publicamente pela startup OpenImob.
+
