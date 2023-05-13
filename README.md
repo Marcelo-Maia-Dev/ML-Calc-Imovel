@@ -20,6 +20,6 @@ A aplicação web foi construída utilizando a biblioteca `Flask`, que é um fra
 ### Como contribuir
 
 Este projeto é de código aberto e contribuições são bem-vindas! Caso queira contribuir, você pode fazer um fork deste repositório, criar uma nova branch com suas mudanças e fazer um pull request para que as suas alterações sejam incorporadas ao projeto.
-
+ 
 
 
