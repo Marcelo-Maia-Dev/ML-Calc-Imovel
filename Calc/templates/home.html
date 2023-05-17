@@ -79,6 +79,11 @@
                           </div>
                         <button type="submit" class="btn btn-primary">Calcular preço</button>
                       </form>
+                      
+                      {{% if valor %}}
+                      <hr>
+                      <h2>Preço de venda:{{ 'R$ :,.2f'.format(valor) }}</h2>
+                      {{% endif %}}
 
                 </div>
             </div>
